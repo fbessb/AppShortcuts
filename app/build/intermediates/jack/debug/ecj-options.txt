@@ -1,0 +1,6 @@
+"/home/francois/AndroidStudioProjects/AppShortcuts/app/src/main/java/com/example/android/appshortcuts/MyReceiver.java"
+"/home/francois/AndroidStudioProjects/AppShortcuts/app/src/main/java/com/example/android/appshortcuts/Main.java"
+"/home/francois/AndroidStudioProjects/AppShortcuts/app/src/main/java/com/example/android/appshortcuts/Utils.java"
+"/home/francois/AndroidStudioProjects/AppShortcuts/app/src/main/java/com/example/android/appshortcuts/ShortcutHelper.java"
+"/home/francois/AndroidStudioProjects/AppShortcuts/app/build/generated/source/r/debug/com/example/android/appshortcuts/R.java"
+"/home/francois/AndroidStudioProjects/AppShortcuts/app/build/generated/source/buildConfig/debug/com/example/android/appshortcuts/BuildConfig.java"

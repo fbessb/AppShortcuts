@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/francois/AndroidStudioProjects/AppShortcuts/app/build/intermediates/res/merged/debug/drawable-nodpi/link.png",
+        "source": "/home/francois/AndroidStudioProjects/AppShortcuts/app/src/main/res/drawable-nodpi/link.png"
+    },
+    {
+        "merged": "/home/francois/AndroidStudioProjects/AppShortcuts/app/build/intermediates/res/merged/debug/drawable-nodpi/add.png",
+        "source": "/home/francois/AndroidStudioProjects/AppShortcuts/app/src/main/res/drawable-nodpi/add.png"
+    }
+]
